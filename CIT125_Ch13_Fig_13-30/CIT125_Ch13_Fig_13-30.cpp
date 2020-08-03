@@ -1,6 +1,6 @@
 // CIT125 Intro To C++ Luigi Robles
 // 08-02-2020 Summer Term
-// Ch.13 pg.491 Fig.13-27
+// Ch.13 pg.495 Fig.13-30
 // Guess the Word Game
 
 #include <iostream>
